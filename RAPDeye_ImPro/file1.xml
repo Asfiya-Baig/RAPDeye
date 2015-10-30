@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+    <CameraSettings>
+        <Exposure>-7</Exposure>
+        <FPS>60</FPS>
+        <Framewidth>640</Framewidth>
+        <Frameheight>480</Frameheight>
+    </CameraSettings>
+</opencv_storage>
